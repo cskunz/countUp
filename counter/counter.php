@@ -3,7 +3,7 @@
 <html>
     <head>
         <link href="css/counter.css" rel="stylesheet">
-        <title>C.S.KUNZ</title>
+        <title>Counter</title>
     </head>
     <body>
         <div id="userInput">
