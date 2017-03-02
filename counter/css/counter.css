@@ -1,6 +1,15 @@
 /*counter.css is a css file for counter.php*/
 /*Cameron Kunz 9/5/2016*/
-
+body {
+  background-color: #4ABDAC;
+  color: white;
+}
+h3 {
+  margin-top: -25px;
+}
+.label {
+  font-size: 23px;
+}
 #userInput {
   margin: 0 auto;
   width: 250px;
@@ -14,5 +23,11 @@
   font-size: 1275%;
   margin: 0 auto;
   width: 100px;
-  color: red;
+  color: white;
+}
+#submitButton {
+  background-color: #F05F40;
+  color: white;
+  border-color: #F05F40;
+  border-radius: 10px;
 }
